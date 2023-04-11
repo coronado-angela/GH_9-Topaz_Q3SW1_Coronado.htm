@@ -1,0 +1,1 @@
+window.alert("What does console.log() do?");

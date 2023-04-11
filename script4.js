@@ -1,0 +1,1 @@
+window.alert("Are they all types of Java script?");

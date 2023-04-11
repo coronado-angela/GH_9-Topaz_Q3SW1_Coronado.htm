@@ -1,0 +1,1 @@
+window.alert("your so sad you failed or you reached the end who knows?");
